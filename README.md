@@ -8,3 +8,4 @@ Qual melhor maneira de fazer validação ?
 No lado do Servidor ou no Lado do Cliente?
 Algum FrameWork JS consegue nos dar tanto poder na validação quanto ao Java ?
 
+Cenas de um próximo Capitulo
